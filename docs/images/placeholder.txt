@@ -1,0 +1,6 @@
+This directory will contain images for documentation.
+
+Suggested images to add:
+1. Screenshots of calendar with imported Ramadan events
+2. Screenshots of the import process for different calendar applications
+3. Diagrams showing the conversion process

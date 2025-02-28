@@ -1,0 +1,20 @@
+Import the CSV file (RamadanCSV.csv)
+----------------------------------------------
+1. Open your calendar application
+2. Look for an "Import" option
+3. Select the CSV file option
+4. Browse to the RamadanCSV.csv file
+5. Match the columns to your calendar's format if prompted
+6. Select which calendar to add these events to
+7. Click Import/OK
+
+TROUBLESHOOTING:
+---------------
+If you continue to experience issues:
+
+1. Try using a different calendar application
+2. Make sure dates are in the correct format for your region
+3. Import only a few events at first to test
+4. Check for special characters that might cause issues
+5. Try a different file format (if CSV doesn't work, try ICS or vice versa)
+6. Manually add a few key events as a last resort
